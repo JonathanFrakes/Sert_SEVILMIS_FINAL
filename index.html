@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/static/style.css">
+
+    <title>Weather API</title>
+  </head>
+  <body>
+
+    <header>
+        <h1>Weather API</h1>
+    </header>
+
+    <nav>
+        <ul>
+          <li><a href="./">Home</a></li>
+          <li><a href="./help">Help</a></li>
+          <li><a href="mailto:yasar@unsereweatherapiwebsite.com,eray@unsereweatherapiwebsite.com">Contact</a></li>
+        </ul>
+    </nav>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="./static/client.js"></script>
+
+    <section>
+        <h2>Current Weather Data</h2>
+        
+        <label for="site-search">Enter City</label>
+            <p><input id="cityss" class="input" name="cityss" type="text" placeholder="..."></p>
+            <button id="searchbtn" onclick="getData()">Search</button>
+
+        <table style="width:100%">
+            <tr>
+              <th>Country</th>
+              <th>City</th> 
+              <th>Temperature</th>
+              <th>Max °C</th>
+              <th>Min °C</th> 
+              <th>Sunrise</th>
+              <th>Sunset</th>
+              <th>Wind</th>
+            </tr>
+            <tr>
+              <td id="country"></td>
+              <td id="city"></td>
+              <td id="Temperature"></td> 
+              <td id="max"></td>
+              <td id="min"></td>
+              <td id="Sunrise"></td>
+              <td id="Sunset"></td>
+              <td id="Wind"></td>
+            </tr>
+        </table>
+    </section>
+
+    <footer>
+        &copy; Yasar Sert & Eray Sevilmis 
+    </footer>
+
+  </body>
+</html>
