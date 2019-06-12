@@ -1,0 +1,20 @@
+Feedback:
+
+Hm ... fällt mir ehrlich gesagt ein bisschen schwer zu glauben, dass ihr das selber gemacht habt. Insbesondere
+auch nach eurem Kommentar im Abgabedokument - dass ihr keine Zeit gehabt habt.
+
+Wenn ich keine Zeit habe, mache ich etwas, das technisch zeigt, dass ich es verstanden habe.
+
+Eure Seite ist aber geradezu perfektionistisch gestylt.
+
+Die HTML Seite ist natürlich wirklich schön. Fühlt sich rund und stabil an, intuitiv und ansprechend.
+
+Ihr habt eine Technologie verwendet, die wir nicht besprochen haben und habt diese auch in eurem Dokument nicht erwähnt. Wisst ihr welche ich meine?
+
+Das worauf es bei uns ankommt, was wir dieses Semester lernen wollten, habt ihr leider nicht wirklich gezeigt.
+Ihr habt ein einziges NodeJS script in eurem Projekt - die Funktionalität ist überschaubar.
+Der Client ist ausschließlich in der HTML Seite implementiert.
+
+Trotz allem. Sofern ihr das Projekt selbst gemacht habt, ist es eine feine Sache. Ich schließe nicht aus, dass ich euch vor der Notenkonferenz noch dazu befrage.
+
+Beurteilung: Befriedigend (3-)
